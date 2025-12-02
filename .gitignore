@@ -24,3 +24,4 @@ seoul_data/whatToEat_DB_socho_extra_raw.xlsx
 data/*.csv
 *.env
 /.venv
+.vscode/
